@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/home/mahin/Desktop/Projects/django-react/venv/bin/python3
+=======
+#!/home/soumit/Documents/django-react/venv/bin/python
+>>>>>>> 73e5eca2fab007fb3d48b8b1b942e5ea739683b3
 # -*- coding: utf-8 -*-
 import re
 import sys

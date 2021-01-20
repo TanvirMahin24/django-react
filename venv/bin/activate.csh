@@ -8,7 +8,11 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
+<<<<<<< HEAD
 setenv VIRTUAL_ENV "/home/mahin/Desktop/Projects/django-react/venv"
+=======
+setenv VIRTUAL_ENV "/home/soumit/Documents/django-react/venv"
+>>>>>>> 73e5eca2fab007fb3d48b8b1b942e5ea739683b3
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"
